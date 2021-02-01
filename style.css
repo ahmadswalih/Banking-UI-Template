@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+/*--------Navbar ----------*/
+.navbar{
+    background: #131313;
+    padding: 1rem 8rem;
+    z-index: 1000;
+}
+.navbar .navbar-brand{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a{
+    color: #ffffff;
+    font-size: 1.1rem;
+    padding: 0 0.8rem;
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a:hover,
+#navbarSupportedContent > ul > li:nth-child(n) > a.active
+{
+    color: #00bf85;
+}
+
+#navbarSupportedContent > button {
+    background:#00bf85;
+    font-weight: 600;
+    padding: 0.4rem  1.4rem;
+    border-radius: 30px;
+}
+.mid{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content:center
+}
+.mid video{
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.hero{
+    position: relative;
+}
+.mid .hero p{
+    width: 55%;
+    font-size: 1.1rem;
+    letter-spacing: 0.2px;
+    padding-bottom: 1rem;
+}
+.mid .hero a{
+    background:#00bf85;
+    font-weight: 600;
+    padding: 0.6rem  1.4rem;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.mid .hero a:hover{
+    background: #ffffff;
+}
+/*----------------About Section----------------------------------*/
+
+.about{
+background: #000;
+}
+.about .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: auto;
+}
+.about .text h6{
+    color: #00BF7F;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+.about .text h2{
+    color: #f7f5f4;
+    font-weight: 700;
+    font-size: 2.7rem;
+}
+.about .text p{
+    color: #f7f5f4;
+    font-weight: 400;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+.about .text a{
+    background:#00bf85;
+    font-weight: 600;
+    padding: 0.6rem  1.4rem;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #111;
+}
+
+/*------------------Discovery Section------------------------------*/
+.discovery{
+
+}
+.discovery .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: auto;
+}
+.discovery .text h6{
+    color: #00BF7F;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+.discovery .text h2{
+    color: #111;
+    font-weight: 700;
+    font-size: 2.7rem;
+}
+.discovery .text p{
+    color: #111;
+    font-weight: 400;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+.discovery .text a{
+    background:#111;
+    font-weight: 500;
+    padding: 0.6rem  1.4rem;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #fff;
+}
+ 
+/*----------------Service Section-------------------------------*/
+
+.service{
+    background: #111;
+}
+.service .one{
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1.5rem;
+    border-radius: 7px;
+}
+
+
+/*----------------Signup Section-------------------------------*/
+
+.signup{
+    
+    }
+    .signup .text{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: auto;
+    }
+    .signup .text h6{
+        color: #00BF7F;
+        font-weight: 600;
+        font-size: 1rem;
+        letter-spacing: 2px;
+    }
+    .signup .text h2{
+        color: #111;
+        font-weight: 700;
+        font-size: 2.7rem;
+    }
+    .signup .text p{
+        font-weight: 400;
+        font-size: 1.1rem;
+        letter-spacing: 0.5px;
+    }
+    .signup .text a{
+        background:#111;
+        font-weight: 500;
+        padding: 0.6rem  1.4rem;
+        border-radius: 30px;
+        text-decoration: none;
+        color: #fff;
+    }
+    @media screen and (max-width:988px){
+        .navbar{
+            padding: 1rem ;
+        }
+        #navbarSupportedContent > ul{
+            padding-left: 0.8rem;
+        }
+        #navbarSupportedContent > ul > li:nth-child(n) > a{
+            padding:0.8rem 0;
+        }
+        .mid .hero h2{
+            font-size: 2.5rem;
+        }
+        .mid .hero p{
+            font-size: 1rem;
+        }
+        .mid .hero a{
+           font-size: 0.9rem;
+        }
+
+    }
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
