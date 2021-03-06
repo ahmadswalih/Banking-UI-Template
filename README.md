@@ -11,5 +11,4 @@ HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
 
  THE WEBSITE IS UNDER MIT LISENCE
 
-
-# Add your OWN DESIGN ELEMENTS TO IT AND SHOW OFF YOUR SKILLS 
+give your valueable  suggestions to imporve the project
