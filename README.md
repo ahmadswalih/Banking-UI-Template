@@ -9,7 +9,7 @@ simple bootstrap website with HTML , CSS and JAVASCRIPT .
 
 HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
 
-# THE WEBSITE IS UNDER MIT LISENCE
+ THE WEBSITE IS UNDER MIT LISENCE
 
 
 # Add your OWN DESIGN ELEMENTS TO IT AND SHOW OFF YOUR SKILLS 
