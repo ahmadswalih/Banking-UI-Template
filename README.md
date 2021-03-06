@@ -2,9 +2,14 @@
 
 simple bootstrap website with HTML , CSS and JAVASCRIPT . 
 
-#Features
+# Features
 - Responsive
 - Modern UI 
 - Smooth Scrolling
 
 HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
+
+# THE WEBSITE IS UNDER MIT LISENCE
+
+
+# Add your OWN DESIGN ELEMENTS TO IT AND SHOW OFF YOUR SKILLS 
