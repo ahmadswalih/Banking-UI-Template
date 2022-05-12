@@ -2,13 +2,12 @@
 
 simple bootstrap website with HTML , CSS and JAVASCRIPT . 
 
+
+# HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
+
+
 # Features
 - Responsive
 - Modern UI 
 - Smooth Scrolling
 
-HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
-
- THE WEBSITE IS UNDER MIT LISENCE
-
-give your valueable  suggestions to imporve the project
