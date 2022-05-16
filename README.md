@@ -3,7 +3,7 @@
 simple bootstrap website with HTML , CSS and JAVASCRIPT . 
 
 
-# HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/Bootstrap-Project-2/
+# <a href="https://ahmadswalih.github.io/Bootstrap-Project-2/">Have a look </a>
 
 
 # Features
