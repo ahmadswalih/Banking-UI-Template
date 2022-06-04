@@ -1,12 +1,12 @@
-# Bootstrap-Project-2
+## Banking UI Template
 
-simple bootstrap website with HTML , CSS and JAVASCRIPT . 
-
-
-# <a href="https://ahmadswalih.github.io/Bootstrap-Project-2/">Have a look </a>
+The Whole Website is Crafted using Bootstrap. 
 
 
-# Features
+## <a href="https://ahmadswalih.github.io/Bootstrap-Project-2/">Have a look </a>
+
+
+## Features
 - Responsive
 - Modern UI 
 - Smooth Scrolling
